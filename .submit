@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131-0501
+#  Project Project0-HelloWorld: Hello World
+
+courseName=CMSC131-0501
+semester=201808
+projectNumber=Project0-HelloWorld
+courseKey=0375cbe8d689f630
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2018
+submitURL=https://submit.cs.umd.edu:443/fall2018/eclipse/SubmitProjectViaEclipse
