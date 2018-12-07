@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131-0501
+#  Project Project2-Flags Of the World: Flags of the World
+
+courseName=CMSC131-0501
+semester=201808
+projectNumber=Project2-Flags Of the World
+courseKey=0375cbe8d689f630
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2018
+submitURL=https://submit.cs.umd.edu:443/fall2018/eclipse/SubmitProjectViaEclipse
